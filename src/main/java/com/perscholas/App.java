@@ -65,6 +65,7 @@ public class App {
         //Store Department
         session.save(department1);
         session.save(department2);
+
         t.commit();
     }
 }

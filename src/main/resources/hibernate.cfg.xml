@@ -22,5 +22,7 @@
         <mapping class="a.department.model.DeptMain"/>
         <mapping class="com.perscholas.model.Teacher"/>
         <mapping class="com.perscholas.model.Department"/>
+        <mapping class="model_person_address.model.Address"/>
+        <mapping class="model_person_address.model.Person"/>
     </session-factory>
 </hibernate-configuration>
