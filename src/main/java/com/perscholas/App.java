@@ -46,12 +46,12 @@ public class App {
         List<Teacher> teachlist2 = new ArrayList();
         teachlist2.add(t4);
         teachlist2.add(t5);
-
-        session.save(t1);
-        session.save(t2);
-        session.save(t3);
-        session.save(t4);
-        session.save(t5);
+//
+//        session.save(t1);
+//        session.save(t2);
+//        session.save(t3);
+//        session.save(t4);
+//        session.save(t5);
 
         //Create Department
         Department department1 = new Department();
