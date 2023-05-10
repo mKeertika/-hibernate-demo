@@ -1,4 +1,4 @@
-package a.department.model;
+package crud.department.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

@@ -1,6 +1,6 @@
-package a.department.controller;
+package crud.department.controller;
 
-import a.department.model.DeptMain;
+import crud.department.model.DeptMain;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;

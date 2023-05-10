@@ -19,7 +19,7 @@
         <property name="hibernate.format_sql" >true </property>
         <!--   Mapping entity file -->
         <mapping class="com.test.hib.model.User"/>
-        <mapping class="a.department.model.DeptMain"/>
+        <mapping class="crud.department.model.DeptMain"/>
         <mapping class="com.perscholas.model.Teacher"/>
         <mapping class="com.perscholas.model.Department"/>
         <mapping class="model_person_address.model.Address"/>
